@@ -23,8 +23,13 @@ Your version needs to be at least v0.10.0.
 
 * If you don't have Node, download it here: [http://nodejs.org/](http://nodejs.org/).
 
-* Run the app:
+* Install the NPM dependencies
 
+```
+npm install
+```
+
+* Run the app:
 
 ```
 node start.js
